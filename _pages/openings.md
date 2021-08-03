@@ -3,10 +3,10 @@ title: "STMI Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies/
+permalink: /openings/
 ---
 
-# Openeings
+# Openings
 
 Thank you for visiting this page and for your interest. I am looking for highly motivated students to help grow my research group! This means research opportunities for those students excited about working in a unique, interdisciplinary realm of research and application. While I have listed some specifics here, we are always looking for bright, motivated students that cross all our fields of research from embedded systems design to machine learning and clinical outcomes research (including MD-PhD students admitted to the TAMU Health Science Program)
 
