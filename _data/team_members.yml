@@ -1,41 +1,40 @@
-- name: Bobak Mortazavi
+- name: Bobak J. Mortazavi, Ph.D.
   photo: bobak.jpg
-  info: Lab Director, Assistant Professor of Computer Science & Engineering
-  email: bobakm@tamu.edu
-  number_educ: 5
-  education1: 
-  education2: 
-  education3: 
-  education4: 
-  education5: 
+  info: Lab Director, Assistant Professor of Computer Science & Engineering, started Aug 2017
+  email: bobakm {at} tamu {dot} edu
+  number_educ: 4
+  education1: B.S. in Electrical Engineering and Computer Science, B.A. in Applied Mathematics UC Berkeley
+  education2: M.S. in Electrical and Computer Engineering, UC Irvine
+  education3: Ph.D. in Computer Science, UCLA
+  education4: Postdoctoral Fellowship in Cardiology, Yale School of Medicine, Yale University
 
 - name: <a href="https://nathan-c-hurley.github.io/">Nathan C. Hurley</a>
   photo: nate.png
-  info: MD/PhD Student, started medical school Aug 2014, joined lab Jan 2018
+  info: M.D./Ph.D. Student, started medical school Aug 2014, joined lab Jan 2018
   email: nathan@hurley.icu
   number_educ: 1
   education1: B.S. Abilene Christian University
-  education2: 
+  education2:
   education3:
-  
+
 - name: Zepeng Huo
   photo: zepeng.jpg
-  info: PhD Student, started Jan 2018
+  info: Ph.D. Student, started Jan 2018
   email: guangzhou92@tamu.edu
   number_educ: 2
-  education1: M. Sc. in computer science, Texas A&M University
-  education2: B. Sc. in electrical engineering, Jilin University, China
+  education1: M.S. in computer science, Texas A&M University
+  education2: B.S. in electrical engineering, Jilin University, China
   education3:
-  
+
 - name: Hoomaan Sajjadi
   photo: hoomaan.jpg
-  info: PhD Student since 2018
+  info: Ph.D. Student since 2018
   email: hooman130@tamu.edu
   number_educ: 1
   education1: B.S. in electrical engineering, Sharif University of Technology
-  education2: 
+  education2:
   education3:
-  
+
 - name: Lida Zhang
   photo: lida.jpg
   info: Ph.D. Student
@@ -44,16 +43,16 @@
   education1: M.S. with <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
   education2: B.S. at Shandong University
   education3:
-  
+
 - name: Arash Pakbin
   photo: arash.jpg
-  info: PhD Student, started Jan 2021
+  info: Ph.D. Student, started Jan 2021
   email: a.pakbin@tamu.edu
   number_educ: 2
-  education1: M.Sc. in computer science, Texas A&M University
-  education2: B.Sc. in electrical engineering, University of Tehran
+  education1: M.S. in computer science, Texas A&M University
+  education2: B.S. in electrical engineering, University of Tehran
   education3:
-  
+
 - name: Zhale Nowroozilarki
   photo: zhale.jpg
   info: Ph.D. Student, started Aug 2020
@@ -69,9 +68,9 @@
   email: siconghuang@tamu.edu
   number_educ: 1
   education1: B.S. in Computer Science, Texas A&M University
-  education2: 
+  education2:
   education3:
-  
+
 - name: Ryan King
   photo: ryan.jpg
   info: Ph.D. Student, started Aug 2021

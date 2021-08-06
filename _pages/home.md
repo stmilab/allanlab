@@ -11,7 +11,7 @@ The STMI lab (pronounced stem-ee) was formed to develop truly integrative end-to
 At its core, these problems require understanding the theoretical properties of the platforms as well as the data. Developing new models to interpret and improve clinical understanding and motivating the collection of new data leads to challenges in systems design, power, communication, and user interface design. In isolation, each field might provide solutions that can be adapted to the others, but by focusing on the end-to-end aspect of our designs, we explore the creation of systems that bridge theoretical gaps in each field as well as the gaps in multi-disciplinary adoption of these technologies.
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
