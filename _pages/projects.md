@@ -30,8 +30,10 @@ Das, Anurag, Seyedhooman Sajjadi, Bobak Mortazavi, Theodora Chaspari, Projna Par
 
 Sajjadi, Seyedhooman, Anurag Das, Ricardo Gutierrez-Osuna, Theodora Chaspari, Projna Paromita, Laura E. Ruebush, Nicolaas E. Deutz, and Bobak J. Mortazavi. "Towards The Development of Subject-Independent Inverse Metabolic Models." In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3970-3974. IEEE, 2021. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9413829)
 
-
-![NSF logo here]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png){width=10%}
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 150px">
+</figure>
+<!-- ![NSF logo here]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png){width=150px} -->
 <!-- end of Project -->
 
 <!--
