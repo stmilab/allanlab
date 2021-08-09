@@ -14,7 +14,9 @@ Our goal is to build instruments and develop techniques that enable us to addres
 
 Here are some selected projects we currently work on:
 
-## Prediction of Meal Macronutrients from Wearable Sensor Data Using Inverse Metabolic Models (NSF Award IIS-2014475) ##
+## Prediction of Meal Macronutrients from Wearable Sensor Data Using Inverse Metabolic Models ##
+
+**(NSF Award IIS-2014475)**
 
 ### Description ###
 
