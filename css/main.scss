@@ -24,6 +24,7 @@ figcaption {
 /* Top navigation bar */
 
 
+
 p.byline {
 	text-align: center;
 	font-size: 18px;
@@ -46,6 +47,18 @@ firstp {
   max-width: 1000px; /* or 950px */
 }
 
+.navbar-brand{
+	padding: 0px 15px;
+	height: 0px;
+
+	> img {
+		margin-bottom: 0px;
+		margin-top: 0px;
+		display: inline;
+		width: 10%;
+	}
+}
+
 /* Home, News */
 #newsid p {
 	text-align: left;
@@ -59,6 +72,8 @@ firstp {
 	margin-top: 6px;
 	margin-bottom: 6px;
 }
+
+
 
 /* Team & Publications */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
