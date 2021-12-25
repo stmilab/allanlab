@@ -1,3 +1,17 @@
+- title: "Towards The Development of Subject-Independent Inverse Metabolic Models"
+  image: Dummy_STMI_Logo.png
+  description: This article provides an up-to-date review of technological advances in 3 key areas related to diet monitoring and precision nutrition. First, we review developments in mobile applications, with a focus on food photography and artificial intelligence to facilitate the process of diet monitoring. Second, we review advances in 2 types of wearable and handheld sensors that can potentially be used to fully automate certain aspects of diet logging: physical sensors to detect moments of dietary intake, and chemical sensors to estimate the composition of diets and meals. Finally, we review new programs that can generate personalized/precision nutrition recommendations based on measurements of gut microbiota and continuous glucose monitors with artificial intelligence. The article concludes with a discussion of potential pitfalls of some of these technologies.
+  authors: S. Sajjadi, A. Das, R. Gutierrez-Osuna, T. Chaspari, P. Paromita, L. E. Ruebush, N. E. Deutz, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/ICASSP39728.2021.9413829
+    display: IEEE International Conference on Acoustics, Speech and Signal Processing (2021)
+  highlight: 0
+  news2: Acceptance Rate 48%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 # - title: "A Review of Digital Innovations for Diet Monitoring and Precision Nutrition"
 #   image: ReviewOfDigital.jpeg
 #   description: This article provides an up-to-date review of technological advances in 3 key areas related to diet monitoring and precision nutrition. First, we review developments in mobile applications, with a focus on food photography and artificial intelligence to facilitate the process of diet monitoring. Second, we review advances in 2 types of wearable and handheld sensors that can potentially be used to fully automate certain aspects of diet logging: physical sensors to detect moments of dietary intake, and chemical sensors to estimate the composition of diets and meals. Finally, we review new programs that can generate personalized/precision nutrition recommendations based on measurements of gut microbiota and continuous glucose monitors with artificial intelligence. The article concludes with a discussion of potential pitfalls of some of these technologies.
