@@ -1,3 +1,88 @@
+# # Template
+# - title: "Something"
+#   image: Dummy_STMI_Logo.png
+#   description: "More of Something"
+#   authors: Someone
+#   link:
+#     url: https://doi.org/??
+#     display: Some Journal/Conference Name
+#   highlight: 0
+#   news2: Acceptance Rate X%
+#   journal: 0
+#   conference: 1
+#   workshop: 0
+#   patent: 0
+#
+- title: "A Metric Learning Approach for Personalized Meal Macronutrient Estimation from Postprandial Glucose Response Signals"
+  image:
+  description:
+  authors: M. Yang, P. Paromita, T. Chaspari, A. Das, S. Sajjadi, B. J. Mortazavi, R. Gutierrez-Osun
+  link:
+    url: https://doi.org/10.1109/BHI50953.2021.9508528
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021)
+  highlight: 0
+  news2: Acceptance Rate 32.7%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "DynEHR: Dynamic adaptation of models with data heterogeneity in electronic health records"
+  image:
+  description:
+  authors: L. Zhang, X. Chen, T. Chen, Z. Wang, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BHI50953.2021.9508558
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021)
+  highlight: 0
+  news2: Acceptance Rate 32.7%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Sparse Gated Mixture-of-Experts to Separate and Interpret Patient Heterogeneity in EHR data"
+  image:
+  description:
+  authors: Z. Huo, L. Zhang, R. Khera, S. Huang, X. Qian, Z. Wang, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BHI50953.2021.9508549
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021)
+  highlight: 0
+  news2: Acceptance Rate 32.7%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Real-time Mortality Prediction Using MIMIC-IV ICU Data Via Boosted Nonparametric Hazards"
+  image:
+  description:
+  authors: Z. Nowroozilarki, A. Pakbin, J. Royalty, D. K. K. Lee, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BHI50953.2021.9508537
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021)
+  highlight: 0
+  news2: Acceptance Rate 32.7%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Outcomes-Driven Clinical Phenotyping in Cardiogenic Shock using a Mixture of Experts"
+  image:
+  description:
+  authors: N. C. Hurley, A. Berkowitz, F. Masoudi, J. Ross, N. Desai, N. Shah, S. Dhruva, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BHI50953.2021.9508568
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2021)
+  highlight: 0
+  news2: Acceptance Rate 32.7%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "A Sparse Coding Approach to Automatic Diet Monitoring with Continuous Glucose Monitors"
   image:
   description:
