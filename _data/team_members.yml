@@ -10,38 +10,38 @@
 
 - name: <a href="https://nathan-c-hurley.github.io/">Nathan C. Hurley</a>
   photo: nate.png
-  info: M.D./Ph.D. Student, started medical school Aug 2014, joined lab Jan 2018
+  info: M.D./Ph.D. Candidate, started medical school Aug 2014, joined lab Jan 2018
   email: nathan@hurley.icu
   number_educ: 1
-  education1: B.S. Abilene Christian University
+  education1: B.S. in Chemistry, Physics, and Biochemistry, Abilene Christian University
   education2:
   education3:
 
 - name: <a href="https://zepenghuo.github.io/">Zepeng Huo</a>
   photo: zepeng.jpg
-  info: Ph.D. Student, started Jan 2018
+  info: Ph.D. Candidate, started Jan 2018
   email: guangzhou92@tamu.edu
   number_educ: 2
-  education1: M.S. in computer science, Texas A&M University
-  education2: B.S. in electrical engineering, Jilin University, China
+  education1: M.S. in Computer Science, Texas A&M University
+  education2: B.S. in Electrical Engineering, Jilin University, China
   education3:
 
 - name: Hoomaan Sajjadi
   photo: hoomaan.jpg
-  info: Ph.D. Student since 2018
+  info: Ph.D. Student, started at Aug 2018
   email: hooman130@tamu.edu
   number_educ: 1
-  education1: B.S. in electrical engineering, Sharif University of Technology
+  education1: B.S. in Electrical Engineering, Sharif University of Technology
   education2:
   education3:
 
 - name: Lida Zhang
   photo: lida.jpg
-  info: Ph.D. Student
+  info: Ph.D. Candidate, started at Aug 2019
   email: lidazhang@tamu.edu
   number_educ: 2
-  education1: M.S. with <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
-  education2: B.S. at Shandong University
+  education1: M.S. in Computer Science, advised by <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
+  education2: B.S. in Computer Science, Shandong University
   education3:
 
 - name: Arash Pakbin
@@ -49,8 +49,8 @@
   info: Ph.D. Student, started Jan 2021
   email: a.pakbin@tamu.edu
   number_educ: 2
-  education1: M.S. in computer science, Texas A&M University
-  education2: B.S. in electrical engineering, University of Tehran
+  education1: M.S. in Computer Science, Texas A&M University
+  education2: B.S. in Electrical Engineering, University of Tehran
   education3:
 
 - name: Zhale Nowroozilarki
