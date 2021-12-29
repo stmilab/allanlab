@@ -5,35 +5,35 @@
 
 - date: 7 October 2021
   keyword: COVID-19 Data Hackathon!
-  headline: Dr. Mortazavi co-chairs the COVID-19 Data Hackathon held by IEEE Healthcare Summit (IHS)
+  headline: Dr. Mortazavi co-chairs the <a href='https://healthcaresummit.ieee.org/data-hackathon/'>COVID-19 Data Hackathon</a> held by IEEE Healthcare Summit (IHS)!
 
 - date: 1 September 2021
   keyword: 1 Published Journal!
-  headline: Dr. Mortazavi's lead authored journal paper has been accepted by Journal of Diabetes Science and Technology
+  headline: Dr. Mortazavi’s lead authored journal paper has been accepted by the Journal of Diabetes Science and Technology
 
 - date: 27 July 2021
   keyword: 5 Published Papers!
-  headline: The STMI lab congratulates Nate Hurley, Zepeng Huo, Lida Zhang, Zhale Nowroozilarki, and Hoomaan Sajjadi for their Conference papers accepted by BHI 2021!
+  headline: The STMI lab congratulates Nate Hurley, Zepeng Huo, Lida Zhang, Zhale Nowroozilarki, and Hoomaan Sajjadi for their conference papers accepted by BHI 2021!
 
 - date: 6 June 2021
   keyword: 2 Published Papers!
-  headline: The STMI lab congratulates Hoomaan Sajjadi for his Conference paper accepted by ICASSP 2021!
+  headline: The STMI lab congratulates Hoomaan Sajjadi for his conference paper accepted by ICASSP 2021!
 
 - date: 08 May 2021
   keyword: New Lab Member!
-  headline: The STMI lab congratulates undergraduate member Ryan King for his graduation and welcomes his rejoin as PhD candidate!
+  headline: The STMI lab congratulates undergraduate member Ryan King for his graduation and welcomes him back to our lab as a PhD student
 
 - date: 08 May 2021
   keyword: New Lab Member!
-  headline: The STMI lab congratulates undergraduate member Sicong Huang for his graduation and welcomes his rejoin as PhD candidate!
+  headline: The STMI lab congratulates undergraduate member Sicong Huang for his graduation and welcomes him back to our lab as a PhD student
 
-- date: 19 November 2020
-  keyword: New NSF Award!
-  headline: Dr. Mortazavi is part of a team that has just been awarded a $15,000 seed grant from the National Science Foundation for Technology for Automated Capture of Diet, Nutrition, and Eating Behaviors, (Co-PI with lead PI Dr. Jessilyn Dunn, from Duke University). You can follow the project progress <a href=''>here</a>
+# - date: 19 November 2020
+#   keyword: New NSF Award!
+#   headline: Dr. Mortazavi is part of a team that has just been awarded a $15,000 seed grant from the National Science Foundation for Technology for Automated Capture of Diet, Nutrition, and Eating Behaviors, (Co-PI with lead PI Dr. Jessilyn Dunn, from Duke University). You can follow the project progress <a href=''>here</a>
 
 - date: 01 October 2020
   keyword: New NSF Award!
-  headline: Dr. Mortazavi is part of a team that has just been awarded a new $1.1 million National Science Foundation Smart and Connected Health award (as the lead PI) for studying macronutrient composition of meals, how they can be measured by continuous glucose monitors, and how models that account for multiple meals and exercise may automated diet. This project is part of the <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1648451'>PATHS-UP</a> ERC with colleagues from the Sansum Diabetes Research Institute. You can follow the project progress <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=2014475'>here</a>
+  headline: Dr. Mortazavi is part of a team that has just been awarded a new $1.1 million National Science Foundation Smart and Connected Health award (as the lead PI) for studying macronutrient composition of meals, how they can be measured by continuous glucose monitors, and how models that account for multiple meals and exercise may automated diet. This project is part of the <a href='https://www.nsf.gov/awardsearch/showAward?AWD_ID=1648451'>PATHS-UP</a> ERC with colleagues from the Sansum Diabetes Research Institute. You can follow the project progress <a href='/projects/imm/'>here</a>
 
 - date: 17 September 2020
   keyword: 1 Accepted Paper!
@@ -49,7 +49,7 @@
 
 - date: 01 June 2020
   keyword: New NIH Award!
-  headline: Dr. Mortazavi is part of a team that has just been awarded a new $3.5 million award from the National Institutes of Health (National Heart Lung and Blood Institute) award (as a Co-I) on evaluating nocturnal blood pressure (and hypertension) with an unobtrusive cuff-less blood pressure monitor, with colleagues from Yale University.
+  headline: Dr. Mortazavi is part of a team that has just been awarded a new $3.5 million award from the National Institutes of Health (National Heart Lung and Blood Institute) award (as a Co-I) on evaluating nocturnal blood pressure (and hypertension) with an unobtrusive cuff-less blood pressure monitor, with colleagues from Yale University. <a href='https://jafari.tamu.edu/news/'> here </a>
 
 - date: 18 March 2020
   keyword: Thesis Defense!
@@ -85,7 +85,7 @@
 
 - date: 13 March 2018
   keyword: New NIH Award!
-  headline: Dr. Mortazavi is part of a team that has just been awarded a new $1.2 million award from the National Institutes of Health (National Institute of Biomedical Imaging and Bioengineering) Smart and Connected Health award (as Co-I) for the design of context-aware cuff-less blood pressure monitoring. You can follow the project progress here:<a href='https://reporter.nih.gov/project-details/10264809'> Project Webpage </a>
+  headline: Dr. Mortazavi is part of a team that has just been awarded a new $1.2 million award from the National Institutes of Health (National Institute of Biomedical Imaging and Bioengineering) Smart and Connected Health award (as Co-I) for the design of context-aware cuff-less blood pressure monitoring. You can follow the project progress here:<a href='https://jafari.tamu.edu/research/'> Project Webpage </a>
 
 - date: 13 March 2018
   keyword: New DARPA Award!
