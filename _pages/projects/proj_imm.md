@@ -23,7 +23,7 @@ This project will develop new inverse metabolic models (IMMs) of the glucose res
 
 ## Products ##
 <!-- using Chicago reference style from google scholar -->
-Paromitaa, Projna, Theodora Chasparia, Seyedhooman Sajjadia, Anurag Dasa, Bobak J. Mortazavia, and Ricardo Gutierrez-Osunaa. "Personalized Meal Classification Using Continuous Glucose Monitors." (2021). [Link to paper](http://ceur-ws.org/Vol-2903/IUI21WS-HEALTHI-10.pdf)
+Paromitaa, Projna, Theodora Chaspari, Seyedhooman Sajjadia, Anurag Dasa, Bobak J. Mortazavia, and Ricardo Gutierrez-Osunaa. "Personalized Meal Classification Using Continuous Glucose Monitors." (2021). [Link to paper](http://ceur-ws.org/Vol-2903/IUI21WS-HEALTHI-10.pdf)
 
 Das, Anurag, Seyedhooman Sajjadi, Bobak Mortazavi, Theodora Chaspari, Projna Paromita, Laura Ruebush, Nicolaas Deutz, and Ricardo Gutierrez-Osuna. "A Sparse Coding Approach to Automatic Diet Monitoring with Continuous Glucose Monitors." In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2900-2904. IEEE, 2021. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9414452)
 

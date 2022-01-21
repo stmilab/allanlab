@@ -6,27 +6,27 @@ sitemap: false
 permalink: /projects/darpa/
 ---
 
-# Prediction of Meal Macronutrients from Wearable Sensor Data Using Inverse Metabolic Models #
+# DARPA stuff #
 
-**(NSF Award IIS-2014475)**
+**(FA8750-18-2-0027)**
 
 ## Description ##
 
-PlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholder
+This study investigates the usage of new wearable sensing devices, which measure pulse wave velocity, respiratory rate, and heart rate before, during, and after cardiac rehabilitation exercises to better quantify recovery in participants diagnosed with heart failure with reduced ejection fraction. The study additionally aims to use this quantification to update estimates of recovery designed from baseline available data.
+
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/imm.png" style="width: 70%; float: center; margin: 10px">
 </figure> -->
-![]({{ site.url }}{{ site.baseurl }}/images/projpic/imm.png){: style="width: 50%"}
+![]({{ site.url }}{{ site.baseurl }}/images/projpic/darpa.png){: style="width: 75%"}
 
-PlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholderPlaceholder
 
 ## Products ##
 <!-- using Chicago reference style from google scholar -->
-Paromitaa, Projna, Theodora Chasparia, Seyedhooman Sajjadia, Anurag Dasa, Bobak J. Mortazavia, and Ricardo Gutierrez-Osunaa. "Personalized Meal Classification Using Continuous Glucose Monitors." (2021). [Link to paper](http://ceur-ws.org/Vol-2903/IUI21WS-HEALTHI-10.pdf)
 
-Das, Anurag, Seyedhooman Sajjadi, Bobak Mortazavi, Theodora Chaspari, Projna Paromita, Laura Ruebush, Nicolaas Deutz, and Ricardo Gutierrez-Osuna. "A Sparse Coding Approach to Automatic Diet Monitoring with Continuous Glucose Monitors." In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2900-2904. IEEE, 2021. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9414452)
+Huo, Zepeng, Arash PakBin, Xiaohan Chen, Nathan Hurley, Ye Yuan, Xiaoning Qian, Zhangyang Wang, Shuai Huang, and Bobak Mortazavi. "Uncertainty quantification for deep context-aware mobile activity recognition and unknown context discovery." In International Conference on Artificial Intelligence and Statistics, pp. 3894-3904. PMLR, 2020. [Link to paper](http://proceedings.mlr.press/v108/huo20a.html)
 
-Sajjadi, Seyedhooman, Anurag Das, Ricardo Gutierrez-Osuna, Theodora Chaspari, Projna Paromita, Laura E. Ruebush, Nicolaas E. Deutz, and Bobak J. Mortazavi. "Towards The Development of Subject-Independent Inverse Metabolic Models." In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3970-3974. IEEE, 2021. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9413829)
+Huo, Zepeng, Lida Zhang, Rohan Khera, Shuai Huang, Xiaoning Qian, Zhangyang Wang, and Bobak J. Mortazavi. "Sparse Gated Mixture-of-Experts to Separate and Interpret Patient Heterogeneity in EHR data." In 2021 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI), pp. 1-4. IEEE, 2021. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9508549)
+
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 150px">
