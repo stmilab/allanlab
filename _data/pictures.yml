@@ -1,24 +1,14 @@
-- title: pic1_description
+- title: stmi_retreat
+  image: stmi_retreat_22_01.jpg
+- title: nate_sorush_graduation
+  image: nate_sorush_graduation.jpg
+- title: nate_graduation
+  image: nate_graduation_01.jpg
+- title: sorush_graduation
+  image: sorush_graduation_01.jpg
+- title: stmi_together
   image: stmi_together.jpg
-# - title: pic1_description
-#   image: sorush_party01.jpg
-# - title: pic1_description
-#   image: sorush_party02.jpg
-# - title: pic_description
-#   image: sorush_party03.jpg
-# - title: pic1_description
-#   image: sorush_party04.jpg
-- title: pic1_description
+- title: sorush_defense
   image: sorush_defense.jpg
-- title: pic1_description
-  image: IMG_5977.jpg
-- title: pic1_description
-  image: IMG_5471.jpg
-- title: pic_description
-  image: IMG_5985.jpg
-- title: pic1_description
-  image: IMG_5999.jpg
-- title: pic1_description
-  image: IMG_1645.jpg
-- title: pic1_description
-  image: IMG_1858.jpg
+- title: nate_defense
+  image: nate_defense.jpg
