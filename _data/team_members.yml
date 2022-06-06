@@ -8,14 +8,14 @@
   education3: Ph.D. in Computer Science, UCLA
   education4: Postdoctoral Fellowship in Cardiology, Yale School of Medicine, Yale University
 
-- name: <a href="https://nathan-c-hurley.github.io/">Nathan C. Hurley</a>
-  photo: nate.png
-  info: M.D./Ph.D. Candidate, started medical school Aug 2014, joined lab Jan 2018
-  email: nathan@hurley.icu
-  number_educ: 1
-  education1: B.S. in Chemistry, Physics, and Biochemistry, Abilene Christian University
-  education2:
-  education3:
+# - name: <a href="https://nathan-c-hurley.github.io/">Nathan C. Hurley</a>
+#   photo: nate.png
+#   info: M.D./Ph.D. Candidate, started medical school Aug 2014, joined lab Jan 2018
+#   email: nathan@hurley.icu
+#   number_educ: 1
+#   education1: B.S. in Chemistry, Physics, and Biochemistry, Abilene Christian University
+#   education2:
+#   education3:
 
 - name: <a href="https://zepenghuo.github.io/">Zepeng Huo</a>
   photo: zepeng.jpg
@@ -63,7 +63,7 @@
   education3:
 
 - name: Sicong Huang
-  photo: sicong.jpeg
+  photo: sicong.jpg
   info: Ph.D. Student, started Jun 2021
   email: siconghuang@tamu.edu
   number_educ: 1
