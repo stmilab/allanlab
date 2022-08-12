@@ -79,3 +79,12 @@
   education1: B.S. in Computer Science, Texas A&M University
   education2: B.S. in Civil Engineering, Virginia Military Institute
   education3:
+
+- name: Edmund Do
+  photo: edmund.jpg
+  info: Ph.D. Student, started Aug 2021
+  email: esd@tamu.edu
+  number_educ: 2
+  education1: M.S. in Computer Science, University of Vermont
+  education2: B.S. in Computer Science, University of Vermont
+  education3:
