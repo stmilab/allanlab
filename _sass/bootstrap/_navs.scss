@@ -10,6 +10,7 @@
   margin-bottom: 0;
   padding-left: 0; // Override default ul/ol
   list-style: none;
+  // background-color: #500000; // give maroon theme
   @include clearfix;
 
   > li {
@@ -115,6 +116,7 @@
 // Pills
 // -------------------------
 .nav-pills {
+  background-color: #500000; // give maroon theme
   > li {
     float: left;
 
@@ -146,6 +148,7 @@
     + li {
       margin-top: 2px;
       margin-left: 0; // no need for this gap between nav items
+      background-color: #500000; // give maroon theme
     }
   }
 }
