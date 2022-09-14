@@ -12,7 +12,7 @@ $gray-base: #000 !default;
 $gray-darker: lighten($gray-base, 13.5%) !default; // #222
 $gray-dark: lighten($gray-base, 20%) !default; // #333
 $gray: lighten($gray-base, 33.5%) !default; // #555
-$gray-light: lighten($gray-base, 100%) !default; // #fff
+$gray-light: lighten($gray-base, 80%) !default; // #ccc
 $gray-lighter: lighten($gray-base, 93.5%) !default; // #eee
 
 $brand-primary: #158CBA !default;
@@ -390,7 +390,7 @@ $navbar-default-link-disabled-color: $gray-lighter  !default;
 $navbar-default-link-disabled-bg: transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color: #FFFFFF !default;
+$navbar-default-brand-color: $gray-light  !default;
 $navbar-default-brand-hover-color: $navbar-default-link-hover-color  !default;
 $navbar-default-brand-hover-bg: transparent !default;
 
@@ -715,7 +715,7 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg: #FFFFFF !default;
+$panel-bg: $gray-lighter  !default;
 $panel-body-padding: 15px !default;
 $panel-heading-padding: 10px 15px !default;
 $panel-footer-padding: $panel-heading-padding  !default;
@@ -729,7 +729,7 @@ $panel-default-text: $gray-dark  !default;
 $panel-default-border: transparent !default;
 $panel-default-heading-bg: #FFFFFF !default;
 
-$panel-primary-text: #fff !default;
+$panel-primary-text: $gray-light  !default;
 $panel-primary-border: transparent !default;
 $panel-primary-heading-bg: $brand-primary  !default;
 
