@@ -35,7 +35,7 @@
   education2:
   education3:
 
-- name: Lida Zhang
+- name: <a href="https://lidazhang.github.io/">Lida Zhang</a>
   photo: lida.jpg
   info: Ph.D. Candidate, started at Aug 2019
   email: lidazhang@tamu.edu
@@ -62,15 +62,6 @@
   education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
   education3:
 
-- name: Sicong Huang
-  photo: sicong.jpg
-  info: Ph.D. Student, started Jun 2021
-  email: siconghuang@tamu.edu
-  number_educ: 1
-  education1: B.S. in Computer Science, Texas A&M University
-  education2:
-  education3:
-
 - name: <a href="https://kingrc15.github.io/">Ryan King</a>
   photo: ryan.jpg
   info: Ph.D. Student, started Aug 2021
@@ -78,6 +69,15 @@
   number_educ: 2
   education1: B.S. in Computer Science, Texas A&M University
   education2: B.S. in Civil Engineering, Virginia Military Institute
+  education3:
+
+- name: Sicong Huang
+  photo: sicong.jpg
+  info: Ph.D. Student, started Jun 2021
+  email: siconghuang@tamu.edu
+  number_educ: 1
+  education1: B.S. in Computer Science, Texas A&M University
+  education2:
   education3:
 
 - name: Edmund Do
