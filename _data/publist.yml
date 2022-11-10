@@ -13,6 +13,49 @@
 #   workshop: 0
 #   patent: 0
 #
+
+- title: "Density-Aware Personalized Training for Risk Prediction in Imbalanced Medical Data"
+  image:
+  description:
+  authors: Z. Huo, X. Qian, S. Huang, Z. Wang, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.48550/arXiv.2207.11382
+    display:  Machine Learning for Healthcare (MLHC) (2022)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Enhancing Continuous Glucose Monitoring-based Eating Detection with Wearable Biomarkers"
+  image:
+  description:
+  authors: S. Omidvar, A. R. Roghanizad, L. Chikwetu, G. Ash, J. Dunn and B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BHI56158.2022.9926964
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2022)
+  highlight: 0
+  news2: Acceptance Rate 30.2%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Dynimp: Dynamic Imputation for Wearable Sensing Data through Sensory and Temporal Relatedness"
+  image:
+  description:
+  authors: Z. Huo, T. Ji, Y. Liang, S. Huang, Z. Wang, X. Qian, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/ICASSP43922.2022.9747062
+    display: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2022)
+  highlight: 0
+  news2: Acceptance Rate 45.0%
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "A Metric Learning Approach for Personalized Meal Macronutrient Estimation from Postprandial Glucose Response Signals"
   image:
   description:
@@ -89,9 +132,9 @@
   authors: A. Das, S. Sajjadi, B. Mortazavi, T. Chaspari, P. Paromita, L. Ruebush, N. Deutz, R. Gutierrez-Osuna
   link:
     url: https://doi.org/10.1109/ICASSP39728.2021.9413829
-    display: IEEE International Conference on Acoustics, Speech and Signal Processing (2021)
+    display: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
   highlight: 0
-  news2: Acceptance Rate 48%
+  news2: Acceptance Rate 48.0%
   journal: 0
   conference: 1
   workshop: 0
@@ -103,9 +146,9 @@
   authors: S. Sajjadi, A. Das, R. Gutierrez-Osuna, T. Chaspari, P. Paromita, L. E. Ruebush, N. E. Deutz, B. J. Mortazavi
   link:
     url: https://doi.org/10.1109/ICASSP39728.2021.9413829
-    display: IEEE International Conference on Acoustics, Speech and Signal Processing (2021)
+    display: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2021)
   highlight: 0
-  news2: Acceptance Rate 48%
+  news2: Acceptance Rate 48.0%
   journal: 0
   conference: 1
   workshop: 0
