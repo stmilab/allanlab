@@ -1,7 +1,7 @@
 - name: Bobak J. Mortazavi, Ph.D.
   photo: bobak.jpg
   info: Lab Director, Assistant Professor of Computer Science & Engineering, started Aug 2017
-  email: bobakm {at} tamu {dot} edu
+  email: bobakm{at}tamu{dot}edu
   number_educ: 4
   education1: B.S. in Electrical Engineering and Computer Science, B.A. in Applied Mathematics, UC Berkeley
   education2: M.S. in Electrical and Computer Engineering, UC Irvine
@@ -20,25 +20,25 @@
 - name: <a href="https://zepenghuo.github.io/">Zepeng Huo</a>
   photo: zepeng.jpg
   info: Ph.D. Candidate, started Jan 2018
-  email: guangzhou92@tamu.edu
+  email: guangzhou92{at}tamu{dot}edu
   number_educ: 2
   education1: M.S. in Computer Science, Texas A&M University
   education2: B.S. in Electrical Engineering, Jilin University, China
   education3:
 
-- name: Hoomaan Sajjadi
-  photo: hoomaan.jpg
-  info: Ph.D. Student, started at Aug 2018
-  email: hooman130@tamu.edu
-  number_educ: 1
-  education1: B.S. in Electrical Engineering, Sharif University of Technology
-  education2:
-  education3:
+# - name: Hoomaan Sajjadi
+#   photo: hoomaan.jpg
+#   info: Ph.D. Student, started at Aug 2018
+#   email: hooman130{at}tamu{dot}edu
+#   number_educ: 1
+#   education1: B.S. in Electrical Engineering, Sharif University of Technology
+#   education2:
+#   education3:
 
 - name: <a href="https://lidazhang.github.io/">Lida Zhang</a>
   photo: lida.jpg
   info: Ph.D. Candidate, started at Aug 2019
-  email: lidazhang@tamu.edu
+  email: lidazhang{at}tamu{dot}edu
   number_educ: 2
   education1: M.S. in Computer Science, advised by <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
   education2: B.S. in Computer Science, Shandong University
@@ -47,7 +47,7 @@
 - name: Arash Pakbin
   photo: arash.jpg
   info: Ph.D. Student, started Jan 2021
-  email: a.pakbin@tamu.edu
+  email: a.pakbin{at}tamu{dot}edu
   number_educ: 2
   education1: M.S. in Computer Science, Texas A&M University
   education2: B.S. in Electrical Engineering, University of Tehran
@@ -56,7 +56,7 @@
 - name: Zhale Nowroozilarki
   photo: zhale.jpg
   info: Ph.D. Student, started Aug 2020
-  email: zhale@tamu.edu
+  email: zhale{at}tamu{dot}edu
   number_educ: 2
   education1: M.S. in Computational Health Informatics, University of Houston
   education2: B.S. in Computer Engineering, K. N. Toosi University of Technology
@@ -65,7 +65,7 @@
 - name: <a href="https://kingrc15.github.io/">Ryan King</a>
   photo: ryan.jpg
   info: Ph.D. Student, started Aug 2021
-  email: kingrc15@tamu.edu
+  email: kingrc15{at}tamu{dot}edu
   number_educ: 2
   education1: B.S. in Computer Science, Texas A&M University
   education2: B.S. in Civil Engineering, Virginia Military Institute
@@ -74,7 +74,7 @@
 - name: Sicong Huang
   photo: sicong.jpg
   info: Ph.D. Student, started Jun 2021
-  email: siconghuang@tamu.edu
+  email: siconghuang{at}tamu{dot}edu
   number_educ: 1
   education1: B.S. in Computer Science, Texas A&M University
   education2:
@@ -83,7 +83,7 @@
 - name: Edmund Do
   photo: edmund.jpg
   info: Ph.D. Student, started Aug 2021
-  email: esd@tamu.edu
+  email: esd{at}tamu{dot}edu
   number_educ: 2
   education1: M.S. in Computer Science, University of Vermont
   education2: B.S. in Computer Science, University of Vermont
