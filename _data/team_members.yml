@@ -26,14 +26,14 @@
   education2: B.S. in Electrical Engineering, Jilin University, China
   education3:
 
-- name: Hoomaan Sajjadi
-  photo: hoomaan.jpg
-  info: Ph.D. Student, started at Aug 2018
-  email: hooman130{at}tamu{dot}edu
-  number_educ: 1
-  education1: B.S. in Electrical Engineering, Sharif University of Technology
-  education2:
-  education3:
+# - name: Hoomaan Sajjadi
+#   photo: hoomaan.jpg
+#   info: Ph.D. Student, started at Aug 2018
+#   email: hooman130{at}tamu{dot}edu
+#   number_educ: 1
+#   education1: B.S. in Electrical Engineering, Sharif University of Technology
+#   education2:
+#   education3:
 
 - name: <a href="https://lidazhang.github.io/">Lida Zhang</a>
   photo: lida.jpg
