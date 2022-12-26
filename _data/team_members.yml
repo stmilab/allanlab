@@ -17,14 +17,14 @@
 #   education2:
 #   education3:
 
-- name: <a href="https://zepenghuo.github.io/">Zepeng Huo</a>
-  photo: zepeng.jpg
-  info: Ph.D. Candidate, started Jan 2018
-  email: guangzhou92{at}tamu{dot}edu
-  number_educ: 2
-  education1: M.S. in Computer Science, Texas A&M University
-  education2: B.S. in Electrical Engineering, Jilin University, China
-  education3:
+# - name: <a href="https://zepenghuo.github.io/">Zepeng Huo</a>
+#   photo: zepeng.jpg
+#   info: Ph.D. Candidate, started Jan 2018
+#   email: guangzhou92{at}tamu{dot}edu
+#   number_educ: 2
+#   education1: M.S. in Computer Science, Texas A&M University
+#   education2: B.S. in Electrical Engineering, Jilin University, China
+#   education3:
 
 # - name: Hoomaan Sajjadi
 #   photo: hoomaan.jpg
