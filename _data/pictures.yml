@@ -10,14 +10,14 @@
   image: sorush_graduation_01.jpg
 - title: stmi_together
   image: stmi_together.jpg
-- title: sorush_defense
-  image: sorush_defense_02.jpg
-- title: nate_defense
-  image: nate_defense.jpg
-- title: zepeng_defense
-  image: zepeng_defense.jpg
-- title: julian_defense
-  image: julian_defense.jpg
+# - title: sorush_defense
+#   image: sorush_defense_02.jpg
+# - title: nate_defense
+#   image: nate_defense.jpg
+# - title: zepeng_defense
+#   image: zepeng_defense.jpg
+# - title: julian_defense
+#   image: julian_defense.jpg
 - title: stmi_retreat
   image: stmi_retreat_22_01.jpg
   
