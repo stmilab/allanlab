@@ -35,14 +35,14 @@
 #   education2:
 #   education3:
 
-- name: <a href="https://lidazhang.github.io/">Lida Zhang</a>
-  photo: lida.jpg
-  info: Ph.D. Candidate, started at Aug 2019
-  email: lidazhang{at}tamu{dot}edu
-  number_educ: 2
-  education1: M.S. in Computer Science, advised by <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
-  education2: B.S. in Computer Science, Shandong University
-  education3:
+# - name: <a href="https://lidazhang.github.io/">Lida Zhang</a>
+#   photo: lida.jpg
+#   info: Ph.D. Candidate, started at Aug 2019
+#   email: lidazhang{at}tamu{dot}edu
+#   number_educ: 2
+#   education1: M.S. in Computer Science, advised by <a href="https://dynresmanagement.com/index.html">Dr. Diego Klabjan</a>, Northwestern University
+#   education2: B.S. in Computer Science, Shandong University
+#   education3:
 
 - name: Arash Pakbin
   photo: arash.jpg
