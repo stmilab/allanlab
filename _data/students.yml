@@ -8,13 +8,13 @@
 #  education3:
 #  education4:
 
-- name: Julian Beaulieu
-  photo: julian.jpg
-  info: Master Student, started on Aug 2021
-  email: julianbeaulieu@tamu.edu
-  number_educ: 1
-  education1: B.S. in Computer Science, UC Riverside
-  education2:
+# - name: Julian Beaulieu
+#   photo: julian.jpg
+#   info: Master Student, started on Aug 2021
+#   email: julianbeaulieu@tamu.edu
+#   number_educ: 1
+#   education1: B.S. in Computer Science, UC Riverside
+#   education2:
 
 # - name: Sorush Omidvar
 #   photo: sorush.jpg
