@@ -16,7 +16,7 @@
 
 - title: "Density-Aware Personalized Training for Risk Prediction in Imbalanced Medical Data"
   image: zepeng_mlhc22.png
-  description:
+  description: Medical events of interest, such as mortality, often happen at a low rate in electronic medical records, as most admitted patients survive. Training models with this imbalance rate (class density discrepancy) may lead to suboptimal prediction. Traditionally this problem is addressed through ad-hoc methods such as resampling or reweighting but performance in many cases is still limited. We propose a framework for training models for this imbalance issue:1) we first decouple the feature extraction and classification process, adjusting training batches separately for each component to mitigate bias caused by class density discrepancy; 2) we train the network with both a density-aware loss and a learnable cost matrix for misclassifications. We demonstrate our model’s improved performance in real-world medical datasets (TOPCAT and MIMIC-III) to show improved AUC-ROC, AUC-PRC, Brier Skill Score compared with the baselines in the domain.
   authors: Z. Huo, X. Qian, S. Huang, Z. Wang, B. J. Mortazavi
   link:
     url: https://doi.org/10.48550/arXiv.2207.11382
