@@ -15,13 +15,13 @@
 #
 
 - title: "Density-Aware Personalized Training for Risk Prediction in Imbalanced Medical Data"
-  image:
+  image: zepeng_mlhc22.png
   description:
   authors: Z. Huo, X. Qian, S. Huang, Z. Wang, B. J. Mortazavi
   link:
     url: https://doi.org/10.48550/arXiv.2207.11382
-    display:  Machine Learning for Healthcare (MLHC) (2022)
-  highlight: 0
+    display: Machine Learning for Healthcare (MLHC) (2022)
+  highlight: 1
   news2:
   journal: 0
   conference: 1
@@ -160,7 +160,7 @@
   authors: Mortazavi, B., Gutierrez-Osuna, R.
   link:
     url: https://doi.org/10.1177/19322968211041356
-    display:  Journal of Diabetes Science and Technology (2021)
+    display: Journal of Diabetes Science and Technology (2021)
   highlight: 1
   news2:
   journal: 1
@@ -174,7 +174,7 @@
   authors: Hurley, N., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: https://dl.acm.org/doi/10.1145/3417958
-    display:  ACM Transactions on Computing for Healthcare (2020)
+    display: ACM Transactions on Computing for Healthcare (2020)
   highlight: 1
   news2:
   journal: 1
@@ -188,7 +188,7 @@
   authors: Dhruva, S., Ross, J., Mortazavi, B., Hurley, N., Krumholz, K., Curtis, J., Berkowitz, A., Masoudi, F., Messenger, J., Parzynski, C., Ngufor, C., Girotra, S., Amin, A., Shah, N., Desai, N.
   link:
     url: https://jamanetwork.com/journals/jama/article-abstract/2761003
-    display:   JAMA. 2020 Feb 25;323(8):734-45
+    display: JAMA. 2020 Feb 25;323(8):734-45
   highlight: 1
   news2:
   journal:
@@ -202,7 +202,7 @@
   authors: Zhang, L., Hurley, N., Ibrahim, B., Spatz, E., Krumholz, H., Jafari, R., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/zhang20a.html
-    display:  Machine Learning for Healthcare (MLHC 2020)
+    display: Machine Learning for Healthcare (MLHC 2020)
   highlight: 1
   news2: Acceptance Rate 35%
   journal: 0
@@ -216,7 +216,7 @@
   authors: Lovelace, J., Hurley, N., Haimovich, A., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v126/lovelace20a.html
-    display:  Machine Learning for Healthcare (MLHC 2020)
+    display: Machine Learning for Healthcare (MLHC 2020)
   highlight: 1
   news2: Acceptance Rate 35%
   journal: 0
@@ -230,7 +230,7 @@
   authors: Wang, X., Pakbin, A., Mortazavi, B., Zhao, H., Lee, D.K.K.
   link:
     url: https://icml.cc/Conferences/2020/Schedule?showEvent=6243
-    display:  International Conference on Machine Learning (ICML 2020)
+    display: International Conference on Machine Learning (ICML 2020)
   highlight: 1
   news2: Acceptance Rate 27%
   journal: 0
@@ -244,7 +244,7 @@
   authors: Huo, Z., Pakbin, A., Chen, X., Hurley, N., Yuan, Y., Qian, X., Wang, Z., Huang, S., Mortazavi, B.
   link:
     url: http://proceedings.mlr.press/v108/huo20a.html
-    display:  Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AIStats 2020)
+    display: Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AIStats 2020)
   highlight: 1
   news2: Acceptance Rate 29%
   journal: 0
@@ -426,7 +426,7 @@
   authors: Mortazavi, B., Desai, N., Zhang, J., Coppi, A., Warner, F., Krumholz, H., Negahban, S.
   link:
     url: https://ieeexplore.ieee.org/document/7865946
-    display:  IEEE Journal of Biomedical and Health Informatics (J-BHI) 21 (6), 1719-172
+    display: IEEE Journal of Biomedical and Health Informatics (J-BHI) 21 (6), 1719-172
   highlight: 0
   news2:
   journal: 1
@@ -454,7 +454,7 @@
   authors: Kalantarian, H., Sideris, C., Mortazavi, B., Alshurafa, N., Sarrafzadeh, M.
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/28113209/
-    display:  "IEEE Transactions on Biomedical Engineering (TBME) 64 (3): 621-628"
+    display: "IEEE Transactions on Biomedical Engineering (TBME) 64 (3): 621-628"
   highlight: 0
   news2:
   journal:
@@ -706,7 +706,7 @@
   authors: Huo, Z., Mortazavi, B., Chaspari, T., Deutz, N., Reubush, L., Gutierrez-Osuna, R.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/8834488
-    display:  "In Proceedings of the IEEE Conference on Biomedical and Health Informatics (BHI ’19) (Acceptance Rate: 31%, Oral Paper Acceptance Rate: 11%)"
+    display: "In Proceedings of the IEEE Conference on Biomedical and Health Informatics (BHI ’19) (Acceptance Rate: 31%, Oral Paper Acceptance Rate: 11%)"
   highlight: 0
   news2:
   journal: 0
