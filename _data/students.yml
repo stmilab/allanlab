@@ -23,3 +23,27 @@
 #   number_educ: 2
 #   education1: Ph.D. in Engineering, University of Georgia
 #   education2: B.Sc. in Civil Engineering, Amirkabir University of Technology
+
+- name: Sua Bae
+  photo: bio-photo.jpg
+  info: Bachelor Student, started on May 2023
+  email: suaxbae[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
+- name: Joyce Su
+  photo: bio-photo.jpg
+  info: Bachelor Student, started on May 2023
+  email: joycesu[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
+- name: Nathaniel Fernandes
+  photo: bio-photo.jpg
+  info: Bachelor Student, started on Aug 2023
+  email: njfernandes24[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
