@@ -87,3 +87,12 @@
 #   education1: M.S. in Computer Science, University of Vermont
 #   education2: B.S. in Computer Science, University of Vermont
 #   education3:
+
+- name: Shima Salehi
+  photo: bio-photo.jpg
+  info: Ph.D. Student, started Aug 2023
+  email: shima.salehi{at}tamu{dot}edu
+  number_educ: 2
+  education1: M.S. in Computer Science, Amirkabir University of Technology
+  education2: B.S. in Electrical Engineering, Isfahan University of Technology
+  education3:
