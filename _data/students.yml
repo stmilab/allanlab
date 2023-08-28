@@ -25,8 +25,8 @@
 #   education2: B.Sc. in Civil Engineering, Amirkabir University of Technology
 
 - name: Sua Bae
-  photo: bio-photo.jpg
-  info: Bachelor Student, started on May 2023
+  photo: sua.jpg
+  info: Bachelor Student in Computer Science, started on May 2023
   email: suaxbae[at]tamu[dot]edu
   number_educ: 0
   education1:
@@ -34,15 +34,15 @@
 
 - name: Joyce Su
   photo: bio-photo.jpg
-  info: Bachelor Student, started on May 2023
+  info: Bachelor Student in Statistics, started on May 2023
   email: joycesu[at]tamu[dot]edu
   number_educ: 0
   education1:
   education2:
 
 - name: Nathaniel Fernandes
-  photo: bio-photo.jpg
-  info: Bachelor Student, started on Aug 2023
+  photo: nathaniel.jpg
+  info: Bachelor Student in Compuer Engineering, started on Aug 2023
   email: njfernandes24[at]tamu[dot]edu
   number_educ: 0
   education1:
