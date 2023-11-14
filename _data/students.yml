@@ -24,6 +24,14 @@
 #   education1: Ph.D. in Engineering, University of Georgia
 #   education2: B.Sc. in Civil Engineering, Amirkabir University of Technology
 
+- name: Aaron Su
+  photo: aaron.jpg
+  info: Bachelor Student in Computer Science, started on Jan 2022
+  email: aa_ron_su[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
 - name: Sua Bae
   photo: sua.jpg
   info: Bachelor Student in Computer Science, started on May 2023
@@ -47,3 +55,20 @@
   number_educ: 0
   education1:
   education2:
+
+- name: Conrad Krueger
+  photo: conrad.jpg
+  info: Bachelor Student in Computer Science, started on Aug 2023
+  email: conradk1234[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
+- name: <a href="https://skylon-t.github.io">Yichen Tao</a>
+  photo: yichen.jpg
+  info: Bachelor Student in Applied Mathematics, started on Sep 2023
+  email: yichentao[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+# TODO: adding Suhu
