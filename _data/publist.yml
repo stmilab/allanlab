@@ -189,7 +189,7 @@
   link:
     url: https://dl.acm.org/doi/10.1145/3417958
     display: ACM Transactions on Computing for Healthcare (2020)
-  highlight: 1
+  highlight: 0
   news2:
   journal: 1
   conference: 0
@@ -217,7 +217,7 @@
   link:
     url: http://proceedings.mlr.press/v126/zhang20a.html
     display: Machine Learning for Healthcare (MLHC 2020)
-  highlight: 1
+  highlight: 0
   news2: Acceptance Rate 35%
   journal: 0
   conference: 1
@@ -231,7 +231,7 @@
   link:
     url: http://proceedings.mlr.press/v126/lovelace20a.html
     display: Machine Learning for Healthcare (MLHC 2020)
-  highlight: 1
+  highlight: 0
   news2: Acceptance Rate 35%
   journal: 0
   conference: 1
@@ -245,7 +245,7 @@
   link:
     url: https://icml.cc/Conferences/2020/Schedule?showEvent=6243
     display: International Conference on Machine Learning (ICML 2020)
-  highlight: 1
+  highlight: 0
   news2: Acceptance Rate 27%
   journal: 0
   conference: 1
@@ -259,7 +259,7 @@
   link:
     url: http://proceedings.mlr.press/v108/huo20a.html
     display: Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AIStats 2020)
-  highlight: 1
+  highlight: 0
   news2: Acceptance Rate 29%
   journal: 0
   conference: 1
