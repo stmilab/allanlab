@@ -33,7 +33,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: right" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <pubdesc>{{ publi.description }}</pubdesc>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
