@@ -9,9 +9,17 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+(For a full list of publications and patents see [below](#journal-papers) or go to [Google Scholar](https://scholar.google.ch/citations?user=TOAg4GkAAAAJ), [GitHub](https://github.com/stmilab))
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TOAg4GkAAAAJ), [GitHub](https://github.com/stmilab))
+## Table of Contents
+- [Publications](#publications)
+  - [Table of Contents](#table-of-contents)
+  - [Group highlights](#group-highlights)
+  - [Journal Papers](#journal-papers)
+  - [Conference Papers](#conference-papers)
+  - [Patents](#patents)
+
+## Group highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -22,16 +30,15 @@ permalink: /publications/
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: right" />
+  <pubdesc>{{ publi.description }}</pubdesc>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p><b>{{ publi.news2 }}</b></p>
  </div>
 </div>
 
@@ -50,7 +57,6 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
 
 ## Journal Papers
 
@@ -78,7 +84,7 @@ permalink: /publications/
 
 {% endfor %}
 
-## Workshops/Demos/Abstracts/Posters
+<!-- ## Workshops/Demos/Abstracts/Posters
 
 {% for publi in site.data.publist %}
 
@@ -89,7 +95,7 @@ permalink: /publications/
 
   {% endif %}
 
-{% endfor %}
+{% endfor %} -->
 
 ## Patents
 

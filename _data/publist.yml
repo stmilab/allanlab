@@ -28,6 +28,20 @@
   workshop: 0
   patent: 0
 
+- title: "Predicting food macronutrients from blood biomarkers"
+  image:
+  description:
+  authors: R. Gutierrez-Osuna, B. J. Mortazavi, Z. Huo, G. L. Cote, N. E. Deutz
+  link:
+    url: https://patents.google.com/patent/US20200352481A1/en
+    display: US Patent US20200352481A1
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 0
+  workshop: 0
+  patent: 1
+
 - title: "Clinical Phenotyping with an Outcomes-driven Mixture of Experts for Patient Matching and Risk Estimation"
   image:
   description: Accurate and continuous monitoring of arterial blood pressure (ABP) is vital for clinical hemodynamic monitoring. However, current methods are either invasive, requiring insertion of catheters, or provide limited information, lacking comprehensive ABP waveforms. Cuffless wearable solutions, combined with deep learning, offer potential but face challenges in accurately reconstructing ABP waveforms and estimating systolic and diastolic blood pressure (SBP/DBP) due to individual variability. We propose a custom pre-trained backbone and a tailored optimization function to address these challenges. Our method demonstrates superior performance in ABP waveform reconstruction and accurate SBP/DBP estimations, while significantly reducing subject variance. To validate the effectiveness of our approach, we conducted comprehensive evaluations using both in-clinic data and a pioneering study involving remote health monitoring with cuffless data. Our results surpass previous efforts, demonstrating a root mean square error (RMSE) of 5.41 ± 1.35 mmHg and a minimum of 58% lower standard deviation (SD) across all measurements. These outcomes highlight the robustness and precision of our method in accurately estimating SBP/DBP and reconstructing ABP waveforms. Furthermore, we assessed the performance of our solution in non-clinical settings using the CTRAL BioZ dataset. The evaluation yielded an RMSE of 8.66 ± 1.13 mmHg for ABP, proving the potential of ABP reconstruction under remote health settings.
@@ -58,7 +72,7 @@
   workshop: 0
   patent: 0
 
-- title: "Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation (BHI 2023)"
+- title: "Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation"
   image: lida_bhi23.png
   description: Type 2 diabetes has a significant impact on individuals health and well-being, and diet monitoring is an important tool in treating individuals. Accurate estimation of meal intake is essential for promoting diet and behavior interventions. While continuous glucose models (CGMs) have demonstrated the ability to estimate carbohydrate quantities in meals, CGMs-alone have been insufficient in capturing other meal nutritional information due to the different types of food and people’s health conditions. Therefore, we propose a multi-modality model for augmenting CGM-based inverse metabolic models by using both CGMcaptured interstitial glucose data and food image data. A late fusion approach is used to aggregate the extracted glucose information from the attention-based Transformer and Gaussian area under the curve (gAUC) features, and image information from the vision transformer. We test our model on a dataset collecting Freestyle Libre Pro CGM data and meal photographs of breakfasts and lunches on 27 participants, with meals with known fixed caloric content. Our joint embedded approach to learning calorie estimations from both CGM data and image data achieved an average Normalized Root Mean Squared Error (NRMSE) of 0.34 for calorie prediction, with a correlation of 0.52, a 15.0% improvement over CGM-only models and 17.1% over image-only models.
   authors: L. Zhang, S. Huang, A. Das, E. Do, N. Glantz, W. Bevier, R. Santiago, D. Kerr, R. Gutierrez-Osuna, B. J. Mortazavi
@@ -1265,7 +1279,7 @@
 - title: "A Prediction of Adverse Events in Patients Undergoing Major Cardiovascular Procedures"
   image:
   description:
-  authors: B. J. Mortazavi, N. Desai, J. Zhang, H. KrumholzM.
+  authors: B. J. Mortazavi, N. Desai, J. Zhang, H. Krumholz
   link:
     url:
     display:
@@ -1276,13 +1290,13 @@
   workshop: 0
   patent: 1
 
-- title: "Near-Realistic Sports Motion Analysis and Activity Monitoring (US 10,201,746 B1)"
+- title: "Near-Realistic Sports Motion Analysis and Activity Monitoring"
   image:
   description:
-  authors: M. Sarrafzadeh, Mortazavi, J.B., Li, X., Chu, K.
+  authors: M. Sarrafzadeh, B. J. Mortazavi, X. Li, K. Chu
   link:
-    url:
-    display:
+    url: https://patents.google.com/patent/US10201746B1/en
+    display: US Patent US10201746B1
   highlight: 0
   news2:
   journal: 0
