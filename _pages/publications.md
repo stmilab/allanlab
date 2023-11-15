@@ -59,27 +59,28 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ## Journal Papers
-
+{% assign i = 1 %}
 {% for publi in site.data.publist %}
 
   {% if publi.journal == 1 %}
-
-  {{ publi.title }} <br />
+  **\[J{{i}}\]** {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {% assign i = i | plus: 1 %}
   {% endif %}
 
 {% endfor %}
 
 ## Conference Papers
 
+{% assign i = 1 %}
 {% for publi in site.data.publist %}
 
   {% if publi.conference == 1 %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  **\[C{{i}}\]** {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }} </a>
+  {% if publi.news2 %}**{{publi.news2}}**{% endif %}
+  {% assign i = i | plus: 1 %}
   {% endif %}
 
 {% endfor %}
@@ -99,13 +100,14 @@ permalink: /publications/
 
 ## Patents
 
+{% assign i = 1 %}
 {% for publi in site.data.publist %}
 
   {% if publi.patent == 1 %}
 
-  {{ publi.title }} <br />
+  **\[P{{i}}\]** {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {% assign i = i | plus: 1 %}
   {% endif %}
 
 {% endfor %}

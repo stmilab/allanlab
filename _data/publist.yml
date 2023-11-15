@@ -1276,19 +1276,19 @@
   workshop: 1
   patent: 0
 
-- title: "A Prediction of Adverse Events in Patients Undergoing Major Cardiovascular Procedures"
-  image:
-  description:
-  authors: B. J. Mortazavi, N. Desai, J. Zhang, H. Krumholz
-  link:
-    url:
-    display:
-  highlight: 0
-  news2:
-  journal: 0
-  conference: 0
-  workshop: 0
-  patent: 1
+# - title: "A Prediction of Adverse Events in Patients Undergoing Major Cardiovascular Procedures"
+#   image:
+#   description:
+#   authors: B. J. Mortazavi, N. Desai, J. Zhang, H. Krumholz
+#   link:
+#     url:
+#     display:
+#   highlight: 0
+#   news2:
+#   journal: 0
+#   conference: 0
+#   workshop: 0
+#   patent: 1
 
 - title: "Near-Realistic Sports Motion Analysis and Activity Monitoring"
   image:
