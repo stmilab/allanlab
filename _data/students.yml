@@ -26,8 +26,16 @@
 
 - name: Aaron Su
   photo: aaron.jpg
-  info: Bachelor Student in Computer Science, started on Jan 2022
+  info: Bachelor Student in Computer Science, started on Jan 2023
   email: aa_ron_su[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
+- name: Suhu Lavu
+  photo: suhu.jpg
+  info: Bachelor Student in Computer Science, started on Jan 2023
+  email: suhu.lavu[at]tamu[dot]edu
   number_educ: 0
   education1:
   education2:
@@ -71,4 +79,3 @@
   number_educ: 0
   education1:
   education2:
-# TODO: adding Suhu
