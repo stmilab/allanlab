@@ -7,21 +7,21 @@
 - title: zepeng_julian_graduation
   image: zepeng_julian_graduation.jpg
   occasion: graduation
-- title: zepeng_graduation
-  image: zepeng_graduation.jpg
-  occasion: graduation
-- title: nate_sorush_graduation
-  image: nate_sorush_graduation.jpg
-  occasion: graduation
-- title: nate_graduation
-  image: nate_graduation_01.jpg
-  occasion: graduation
-- title: sorush_graduation
-  image: sorush_graduation_01.jpg
-  occasion: graduation
-# - title: stmi_together
-#   image: stmi_together.jpg
-#   occasion: causal
+# - title: zepeng_graduation
+#   image: zepeng_graduation.jpg
+#   occasion: graduation
+# - title: nate_sorush_graduation
+#   image: nate_sorush_graduation.jpg
+#   occasion: graduation
+# - title: nate_graduation
+#   image: nate_graduation_01.jpg
+#   occasion: graduation
+# - title: sorush_graduation
+#   image: sorush_graduation_01.jpg
+#   occasion: graduation
+- title: stmi_together
+  image: stmi_together.jpg
+  occasion: causal
 # - title: sorush_defense
 #   image: sorush_defense_02.jpg
 # - title: nate_defense
