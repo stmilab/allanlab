@@ -6,15 +6,17 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+## Table of Contents
 
-
+- [Table of Contents](#table-of-contents)
+- [Staff and PhDs](#staff-and-phds)
+- [Master and Bachelor Students](#master-and-bachelor-students)
+- [Alumni](#alumni)
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
-Jump to [Staff & PhDs](#Staff-&-PhDs), [master and bachelor students](#master-and-bachelor-students),  [alumni](#alumni).
 
-## Staff & PhDs
+## Staff and PhDs
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

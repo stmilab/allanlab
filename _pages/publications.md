@@ -12,6 +12,7 @@ permalink: /publications/
 (For a full list of publications and patents see [below](#journal-papers) or go to [Google Scholar](https://scholar.google.ch/citations?user=TOAg4GkAAAAJ), [GitHub](https://github.com/stmilab))
 
 ## Table of Contents
+
 - [Publications](#publications)
   - [Table of Contents](#table-of-contents)
   - [Group highlights](#group-highlights)
