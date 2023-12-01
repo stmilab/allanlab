@@ -25,7 +25,10 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+<!-- We only keep the first 4 highlighted articles -->
+{%if number_printed >= 4%}
+{% break %}
+{% if publi.highlight == 1%}
 
 {% if even_odd == 0 %}
 <div class="row">
