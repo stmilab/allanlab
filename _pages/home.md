@@ -40,6 +40,7 @@ At its core, these problems require understanding the theoretical properties of 
           {% endif %}
         {% endfor %}
     </div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -52,4 +53,4 @@ At its core, these problems require understanding the theoretical properties of 
 
 At its core, these problems require understanding the theoretical properties of the platforms as well as the data. Developing new models to interpret and improve clinical understanding and motivating the collection of new data leads to challenges in systems design, power, communication, and user interface design. In isolation, each field might provide solutions that can be adapted to the others, but by focusing on the end-to-end aspect of our designs, we explore the creation of systems that bridge theoretical gaps in each field as well as the gaps in multi-disciplinary adoption of these technologies.
 
- **We are  looking for passionate new PhD students, Master, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for passionate new PhD students, Master, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-# Projects #
+# Projects
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
@@ -14,9 +14,9 @@ Our goal is to build instruments and develop techniques that enable us to addres
 
 Here are some selected projects we currently work on:
 
-#### [Prediction of Meal Macronutrients from Wearable Sensor Data Using Inverse Metabolic Models]({{ site.url }}{{ site.baseurl }}/projects/imm) ####
+#### [Prediction of Meal Macronutrients from Wearable Sensor Data Using Inverse Metabolic Models]({{ site.url }}{{ site.baseurl }}/projects/imm)
 
-#### [DARPA Award]({{ site.url }}{{ site.baseurl }}/projects/darpa) ####
+#### [DARPA Award]({{ site.url }}{{ site.baseurl }}/projects/darpa)
 
 <!--
 **Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
