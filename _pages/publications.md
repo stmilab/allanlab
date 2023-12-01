@@ -28,6 +28,7 @@ permalink: /publications/
 <!-- We only keep the first 4 highlighted articles -->
 {%if number_printed >= 4%}
 {% break %}
+{% endif %}
 {% if publi.highlight == 1%}
 
 {% if even_odd == 0 %}
