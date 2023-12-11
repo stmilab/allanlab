@@ -14,6 +14,20 @@
 #   patent: 0
 #
 
+- title: "Multimodal Pretraining of Medical Time Series and Notes"
+  image: ryan_ml4h23.png
+  description: Within the intensive care unit (ICU), a wealth of patient data, including clinical measurements and clinical notes, is readily available. This data is a valuable resource for comprehending patient health and informing medical decisions, but it also contains many challenges in analysis. Deep learning models show promise in extracting meaningful patterns, but they require extensive labeled data, a challenge in critical care. To address this, we propose a novel approach employing self-supervised pretraining, focusing on the alignment of clinical measurements and notes. Our approach combines contrastive and masked token prediction tasks during pretraining. Semi-supervised experiments on the MIMIC-III dataset demonstrate the effectiveness of our self-supervised pretraining. In downstream tasks, including in-hospital mortality prediction and phenotyping, our pretrained model outperforms baselines in settings where only a fraction of the data is labeled, emphasizing its ability to enhance ICU data analysis. Notably, our method excels in situations where very few labels are available, as evidenced by an increase in the AUC-ROC for in-hospital mortality by 0.17 and in AUC-PR for phenotyping by 0.1 when only 1% of labels are accessible. This work advances self-supervised learning in the healthcare domain, optimizing clinical insights from abundant yet challenging ICU data.
+  authors: R. King, T. Yang, B. J. Mortazavi
+  link:
+    url: https://proceedings.mlr.press/v225/king23a/king23a.pdf
+    display: Machine Learning for Health (ML4H) (2023)
+  highlight: 1
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "BoXHED2.0: Scalable Boosting of Dynamic Survival Analysis"
   image: arash_jss23.png
   description: Modern applications of survival analysis increasingly involve time-dependent covariates. The Python package BoXHED2.0 is a tree-boosted hazard estimator that is fully nonparametric, and is applicable to survival settings far more general than right-censoring, including recurring events and competing risks. BoXHED2.0 is also scalable to the point of being on the same order of speed as parametric boosted survival models, in part because its core is written in C++ and it also supports the use of GPUs and multicore CPUs. BoXHED2.0 is available from PyPI and also from www.github.com/BoXHED.
