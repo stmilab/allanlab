@@ -84,6 +84,20 @@
   workshop: 0
   patent: 0
 
+- title: "Predicting Real-time, Recurrent Adverse Invasive Ventilation from Clinical Data Streams"
+  image:
+  description: Electronic Health Record (EHR) data provide a tremendous opportunity for enhancing the quality of care by delivering personalized treatments [1]. EHR data are rich and tracked at high frequency over time, and can be integrated into a real-time, continuous warning system. One problem that can benefit from real-time monitoring of EHR is the occurrence of invasive-ventilation (iV) for Intensive Care Unit (ICU) patients. The prognostication of a future event falls in the domain of survival analysis. However, iV can occur multiple times during an ICU stay, while most survival analysis tools work only with non-recurring events. Moreover, most survival analysis models are restricted to time-static data, while EHR data changes over time, e.g. heart rate. Therefore, to model the iV problem we turn to BoXHED2.0 [2], a fully nonparametric survival machine learning method that is grounded in theory [3]. Importantly, BoXHED2.0 can handle recurring events data with time-dependent covariates, and we apply it to the MIMIC IV data set [4] to develop a real-time ICU iV warning indicator. Our ICU iV model achieves an AUCPR of 0.34 (versus 0.13 for the benchmarks) and an AUROC of 0.85 (versus 0.73 for the benchmarks) out of sample, speaking to its effectiveness in real-time risk monitoring.
+  authors: A. Pakbin, Z. Nowroozilarki, Donald K. K. Lee, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BSN58485.2023.10331225
+    display: IEEE 19th International Conference on Body Sensor Networks (BSN) (2023)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "Earlier identification of hypertensive events in a telemonitoring system"
   image:
   description: Hypertension is a prevalent risk factor for cardiovascular disease and premature mortality. Telemonitoring can be used to provide a communication pipeline between patients and clinicians for diagnosing hypertension and staging early intervention. However, it takes healthcare resources to monitor patients and identify patients at risk of experiencing a hypertensive event. To reduce the burden on the health care system, we present an automated early warning system to predict patients at risk of a hypertensive event. We first construct a fusion model that utilizes a dual stage attention mechanism to determine whether a hypertensive event occurs in the next seven days and compare its performance to XGBoost and logistic regression. Then, we measure its performance in an early warning system to determine whether it can detect the onset of the first hypertensive event for each patient. With the best threshold, the early warning system using this model has an F1 score of 0.61.
@@ -93,8 +107,8 @@
     display: IEEE 19th International Conference on Body Sensor Networks (BSN) (2023)
   highlight: 0
   news2:
-  journal: 1
-  conference: 0
+  journal: 0
+  conference: 1
   workshop: 0
   patent: 0
 
@@ -107,8 +121,8 @@
     display: IEEE 19th International Conference on Body Sensor Networks (BSN) (2023)
   highlight: 0
   news2:
-  journal: 1
-  conference: 0
+  journal: 0
+  conference: 1
   workshop: 0
   patent: 0
 
@@ -143,7 +157,7 @@
 - title: "Clinical Risk Prediction Models with Meta-Learning Prototypes of Patient Heterogeneity"
   image:
   description: Hospitalized patients sometimes have complex health conditions, such as multiple diseases, underlying diseases, and complications. The heterogeneous patient conditions may have various representations. A generalized model ignores the differences among heterogeneous patients, and personalized models, even with transfer learning, are still limited to the small amount of training data and the repeated training process. Meta-learning provides a solution for training similar patients based on few-shot learning; however, cannot address common cross-domain patients. Inspired by prototypical networks [1], we proposed a meta-prototype for Electronic Health Records (EHR), a meta-learning-based model with flexible prototypes representing the heterogeneity in patients. We apply this technique to cardiovascular diseases in MIMIC-III and compare it against a set of benchmark models, and demonstrate its ability to address heterogeneous patient health conditions and improve the model performances from 1.2% to 11.9% on different metrics and prediction tasks.Clinical relevance— Developing an adaptive EHR risk prediction model for outcomes-driven phenotyping of heterogeneous patient health conditions.
-  authors: L. Huang, R. Khera, B. J. Mortazavi
+  authors: L. Zhang, R. Khera, B. J. Mortazavi
   link:
     url: https://doi.org/10.1109/EMBC40787.2023.10340765
     display: 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (2023)
