@@ -84,7 +84,33 @@
   workshop: 0
   patent: 0
 
-# TODO: Adding the BSN publications
+- title: "Earlier identification of hypertensive events in a telemonitoring system"
+  image:
+  description: Hypertension is a prevalent risk factor for cardiovascular disease and premature mortality. Telemonitoring can be used to provide a communication pipeline between patients and clinicians for diagnosing hypertension and staging early intervention. However, it takes healthcare resources to monitor patients and identify patients at risk of experiencing a hypertensive event. To reduce the burden on the health care system, we present an automated early warning system to predict patients at risk of a hypertensive event. We first construct a fusion model that utilizes a dual stage attention mechanism to determine whether a hypertensive event occurs in the next seven days and compare its performance to XGBoost and logistic regression. Then, we measure its performance in an early warning system to determine whether it can detect the onset of the first hypertensive event for each patient. With the best threshold, the early warning system using this model has an F1 score of 0.61.
+  authors: E. Do, S. Lavu, H. Kum, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BSN58485.2023.10330992
+    display: IEEE 19th International Conference on Body Sensor Networks (BSN) (2023)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
+
+- title: "Modeling the effect of non-exercise activity on peak post-prandial glucose in diabetes"
+  image:
+  description: The timing, intensity, and duration of postprandial exercise are important factors that reduce glucose excursions. When exercise is of moderate intensity, performed between 25 and 55 minutes after a meal, it results in greater attenuation of glucose. However, the potential glucose reduction for shorter-duration, non-exercise activity thermogenesis (NEAT) (such as activities of daily living) may also be beneficial, particularly in cases where exercise is neither feasible nor prudent. Therefore, we designed a system to capture blood glucose and activity intensity through internet of medical things devices and modeled the impact of the timing and duration of NEAT on peak glucose. This work designed a linear mixed effects model to evaluate the impact of NEAT on peak, postprandial glucose in a study of data captured on varied participants with or without diabetes. We found at least 25 minutes of NEAT starting 30 minutes after the meal most effectively reduced peak post-prandial glucose.Clinical Relevance— This work establishes the impact of NEAT on reducing post-prandial peak glucose in free-living environments as another method of controlling glucose surges.
+  authors: E. Do, A. Das, N. Glanz, W. Bevier, R. Santiago, D. Kerr, R. Gutierrez-Osuna, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/BSN58485.2023.10331072
+    display: IEEE 19th International Conference on Body Sensor Networks (BSN) (2023)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
 
 - title: "ArterialNet: Arterial Blood Pressure Reconstruction"
   image: sicong_bhi23.png
