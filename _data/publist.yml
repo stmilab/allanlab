@@ -140,6 +140,20 @@
   workshop: 0
   patent: 0
 
+- title: "Clinical Risk Prediction Models with Meta-Learning Prototypes of Patient Heterogeneity"
+  image:
+  description: Hospitalized patients sometimes have complex health conditions, such as multiple diseases, underlying diseases, and complications. The heterogeneous patient conditions may have various representations. A generalized model ignores the differences among heterogeneous patients, and personalized models, even with transfer learning, are still limited to the small amount of training data and the repeated training process. Meta-learning provides a solution for training similar patients based on few-shot learning; however, cannot address common cross-domain patients. Inspired by prototypical networks [1], we proposed a meta-prototype for Electronic Health Records (EHR), a meta-learning-based model with flexible prototypes representing the heterogeneity in patients. We apply this technique to cardiovascular diseases in MIMIC-III and compare it against a set of benchmark models, and demonstrate its ability to address heterogeneous patient health conditions and improve the model performances from 1.2% to 11.9% on different metrics and prediction tasks.Clinical relevance— Developing an adaptive EHR risk prediction model for outcomes-driven phenotyping of heterogeneous patient health conditions.
+  authors: L. Huang, R. Khera, B. J. Mortazavi
+  link:
+    url: https://doi.org/10.1109/EMBC40787.2023.10340765
+    display: 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (2023)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "Semi-supervised Meta-learning for Multi-source Heterogeneity in Time-series Data"
   image: lida_mlhc23.png
   description: Real-world time-series data is riddled with heterogeneity that is often present across a number of dataset dimensions, features, labels, and time-varying factors. The heterogeneity in time-series data may be raised by introducing new features, missing data, and domain shifts in the feature dimension, and the difficulty of collecting promising ground truth results in label uncertainty. In addition, the variation on the time manner further aggravates the complexity of data heterogeneity, since the features and labels may change on the same sequence of data over time. Many machine learning techniques have been proposed to address the data heterogeneity, including transfer learning, meta-learning, semi-supervised learning, recurrent networks, etc. However, each of these techniques is limited to one type of heterogeneity. In this study, we seek to create adaptable models for the multi-source heterogeneity in time-series data. We propose a semi-supervised-based meta-learning (SSML) with an adversarial training mechanism simultaneously addressing the heterogeneous features and labeling uncertainty, a time domain variation (TDV) framework to apply SSML and transfer learning for the third level of data heterogeneity. We test our models on two medical datasets, PhysioNet Challenge 2012 and MIMIC-III ICU dataset, and improve over all benchmark models.
