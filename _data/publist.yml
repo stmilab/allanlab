@@ -14,6 +14,20 @@
 #   patent: 0
 #
 
+- title: "ECG Abnormality Detection Using MIMIC-IV-ECG Data Via Supervised Contrastive Learning"
+  image: zhale_embc24.jpg
+  description: Electrocardiogram data provide a tremendous op- portunity for the detection of various types of cardiac arrhyth- mia. Recent advancement in ubiquitous wearable devices with incorporated ECG sensors offers an opportunity for a real- time monitoring system for detecting abnormalities in ECG data. Nevertheless, access to a comprehensive labeled dataset can be expensive and not feasible. As a result, there is a need for a pretraining framework with a minimal amount of labeled data that generates a morphology-aware embedding space. Contrastive learning is a commonly used approach for creating these regularized embedding spaces where the latent representations of similar data points are close. However, creating an augmented biomedical waveform can be challenging as it may alter the underlying physiological features. To address these shortcomings, we utilize a supervised contrastive pretraining framework for detecting three types of ECG abnormalities, Atrial Fibrillation, Sinus Bradycardia, and Sinus Tachycardia. This proposed method achieves an increased macro AUROC of 0.96 (versus 0.89 for the fully supervised alternative) and a balanced accuracy of 0.91 (versus 0.86 for the baseline).
+  authors: Z. Nowroozilarki, S. Huang, R. Khera, B. J. Mortazavi
+  link:
+    url: https://stmilab.github.io/
+    display: Conference of the IEEE EMBS (EMBC) (2024)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
 - title: "Multimodal Pretraining of Medical Time Series and Notes"
   image: ryan_ml4h23.png
   description: Within the intensive care unit (ICU), a wealth of patient data, including clinical measurements and clinical notes, is readily available. This data is a valuable resource for comprehending patient health and informing medical decisions, but it also contains many challenges in analysis. Deep learning models show promise in extracting meaningful patterns, but they require extensive labeled data, a challenge in critical care. To address this, we propose a novel approach employing self-supervised pretraining, focusing on the alignment of clinical measurements and notes. Our approach combines contrastive and masked token prediction tasks during pretraining. Semi-supervised experiments on the MIMIC-III dataset demonstrate the effectiveness of our self-supervised pretraining. In downstream tasks, including in-hospital mortality prediction and phenotyping, our pretrained model outperforms baselines in settings where only a fraction of the data is labeled, emphasizing its ability to enhance ICU data analysis. Notably, our method excels in situations where very few labels are available, as evidenced by an increase in the AUC-ROC for in-hospital mortality by 0.17 and in AUC-PR for phenotyping by 0.1 when only 1% of labels are accessible. This work advances self-supervised learning in the healthcare domain, optimizing clinical insights from abundant yet challenging ICU data.
