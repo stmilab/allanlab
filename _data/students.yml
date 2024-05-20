@@ -72,18 +72,18 @@
   education1:
   education2:
 
-- name: <a href="https://skylon-t.github.io">Yichen Tao</a>
-  photo: yichen.jpg
-  info: Bachelor Student in Applied Mathematics, started on Sep 2023
-  email: yichentao[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
-
 - name: Nikhil Nehra
   photo: nikhil.jpg
   info: Masters of Science in Computer Science, started on Jan 2024
   email: nikhilnehra[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
+
+- name: Shivesh Kodali
+  photo: bio-photo.jpg
+  info: Masters of Science in Data Science, started on Jan 2024
+  email: shivesh_2001[at]tamu[dot]edu
   number_educ: 0
   education1:
   education2:
