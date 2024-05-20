@@ -89,11 +89,19 @@
 #   education2: B.S. in Computer Science, University of Vermont
 #   education3:
 
-- name: Shima Salehi
-  photo: shima.jpg
-  info: Ph.D. Student, started Aug 2023
-  email: shima.salehi{at}tamu{dot}edu
-  number_educ: 2
-  education1: M.S. in Computer Science, Amirkabir University of Technology
-  education2: B.S. in Electrical Engineering, Isfahan University of Technology
-  education3:
+# - name: Shima Salehi
+#   photo: shima.jpg
+#   info: Ph.D. Student, started Aug 2023
+#   email: shima.salehi{at}tamu{dot}edu
+#   number_educ: 2
+#   education1: M.S. in Computer Science, Amirkabir University of Technology
+#   education2: B.S. in Electrical Engineering, Isfahan University of Technology
+#   education3:
+
+- name: <a href="https://skylon-t.github.io">Yichen Tao</a>
+  photo: yichen.jpg
+  info: Ph.D. Student, started on Aug 2024
+  email: yichentao[at]tamu[dot]edu
+  number_educ: 1
+  education1: B.S. in Applied Mathematics, Texas A&M University
+  education2:
