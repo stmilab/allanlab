@@ -24,21 +24,21 @@
 #   education1: Ph.D. in Engineering, University of Georgia
 #   education2: B.Sc. in Civil Engineering, Amirkabir University of Technology
 
-- name: Aaron Su
-  photo: aaron.jpg
-  info: Bachelor Student in Computer Science, started on Jan 2023
-  email: aa_ron_su[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Aaron Su
+#   photo: aaron.jpg
+#   info: Bachelor Student in Computer Science, started on Jan 2023
+#   email: aa_ron_su[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
-- name: Suhu Lavu
-  photo: suhu.jpg
-  info: Bachelor Student in Computer Science, started on Jan 2023
-  email: suhu.lavu[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Suhu Lavu
+#   photo: suhu.jpg
+#   info: Bachelor Student in Computer Science, started on Jan 2023
+#   email: suhu.lavu[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
 # - name: Sua Bae
 #   photo: sua.jpg
@@ -56,21 +56,21 @@
 #   education1:
 #   education2:
 
-- name: Nathaniel Fernandes
-  photo: nathaniel.jpg
-  info: Bachelor Student in Compuer Engineering, started on Aug 2023
-  email: njfernandes24[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Nathaniel Fernandes
+#   photo: nathaniel.jpg
+#   info: Bachelor Student in Compuer Engineering, started on Aug 2023
+#   email: njfernandes24[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
-- name: Conrad Krueger
-  photo: conrad.jpg
-  info: Bachelor Student in Computer Science, started on Aug 2023
-  email: conradk1234[at]tamu[dot]edu
-  number_educ: 0
-  education1:
-  education2:
+# - name: Conrad Krueger
+#   photo: conrad.jpg
+#   info: Bachelor Student in Computer Science, started on Aug 2023
+#   email: conradk1234[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:
 
 - name: Nikhil Nehra
   photo: nikhil.jpg
@@ -87,3 +87,10 @@
   number_educ: 0
   education1:
   education2:
+# - name: Olivia Lee
+#   photo: bio-photo.jpg
+#   info: Bachelor Student in Computer Science, started on Jan 2024
+#   email: nikhilnehra[at]tamu[dot]edu
+#   number_educ: 0
+#   education1:
+#   education2:

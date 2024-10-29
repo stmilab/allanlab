@@ -12,7 +12,7 @@ permalink: /team/
 
 - [Table of Contents](#table-of-contents)
 - [Staff and PhDs](#staff-and-phds)
-- [Master and Bachelor Students](#master-and-bachelor-students)
+- [Selected Master and Bachelor Students](#selected-master-and-bachelor-students)
 - [Alumni](#alumni)
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
@@ -87,7 +87,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Master and Bachelor Students
+## Selected Master and Bachelor Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -194,14 +194,14 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master Graduates</h4>
+<h4>Master Research Graduates</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Graduates</h4>
+<h4>Bachelor Research Graduates</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
