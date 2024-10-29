@@ -87,10 +87,11 @@
   number_educ: 0
   education1:
   education2:
-# - name: Olivia Lee
-#   photo: bio-photo.jpg
-#   info: Bachelor Student in Computer Science, started on Jan 2024
-#   email: nikhilnehra[at]tamu[dot]edu
-#   number_educ: 0
-#   education1:
-#   education2:
+
+- name: Olivia Lee
+  photo: bio-photo.jpg
+  info: Bachelor Student in Computer Science, started on Aug 2024
+  email: oliviafrancislee[at]tamu[dot]edu
+  number_educ: 0
+  education1:
+  education2:
