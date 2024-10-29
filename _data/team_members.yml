@@ -1,4 +1,4 @@
-- name: Bobak J. Mortazavi, Ph.D.
+- name: <a href="/pi/"> Bobak J. Mortazavi, Ph.D. </a>
   photo: bobak.jpg
   info: Lab Director, Associate Professor of Computer Science & Engineering, started Aug 2017
   email: bobakm{at}tamu{dot}edu
@@ -44,14 +44,14 @@
 #   education2: B.S. in Computer Science, Shandong University
 #   education3:
 
-- name: Arash Pakbin
-  photo: arash.jpg
-  info: Ph.D. Student, started Jan 2021
-  email: a.pakbin{at}tamu{dot}edu
-  number_educ: 2
-  education1: M.S. in Computer Science, Texas A&M University
-  education2: B.S. in Electrical Engineering, University of Tehran
-  education3:
+# - name: Arash Pakbin
+#   photo: arash.jpg
+#   info: Ph.D. Student, started Jan 2021
+#   email: a.pakbin{at}tamu{dot}edu
+#   number_educ: 2
+#   education1: M.S. in Computer Science, Texas A&M University
+#   education2: B.S. in Electrical Engineering, University of Tehran
+#   education3:
 
 - name: Zhale Nowroozilarki
   photo: zhale.jpg
@@ -98,7 +98,7 @@
 #   education2: B.S. in Electrical Engineering, Isfahan University of Technology
 #   education3:
 
-- name: <a href="https://skylon-t.github.io">Yichen Tao</a>
+- name: Yichen Tao
   photo: yichen.jpg
   info: Ph.D. Student, started on Aug 2024
   email: yichentao[at]tamu[dot]edu
