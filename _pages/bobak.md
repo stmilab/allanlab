@@ -1,12 +1,12 @@
 ---
-title: "STMI Lab - Home"
+title: "Bobak J. Mortazavi, Ph.D."
 layout: personlay
 excerpt: "STMI Lab at Texas A&M University."
-sitemap: false
+sitemap: true
 permalink: /pi/
 ---
 
-## About Me
+## Bobak J. Mortazavi, Ph.D.
 
 {% assign member = site.data.team_members[0] %}
 
@@ -16,7 +16,9 @@ permalink: /pi/
 
 **_to be updated!!!_**
 
-#### Sicong told the followings from this [website](http://www.stat.yale.edu/~bm598/#bio)
+## About Me
+
+#### Sicong stole the followings from this [website](http://www.stat.yale.edu/~bm598/#bio)
 
 Since 2017, I'm an Associate Professor in Computer Science & Engineering at Texas A&M University, as a memeber of the Center for Remote Health Technologies & Systems. I am currently an Instructor in Cardiology at the Yale University School of Medicine. Prior to that, I was a postdoctoral associate under the supervision of Prof. Harlan Krumholz at the Center for Outcomes Research and Evaluation (CORE) and Prof. Sahand Negahban of the Department of Statistics. I worked as a graduate student (and earned my Ph.D.) in Computer Science under the supervision of Prof. Majid Sarrafzadeh at the University of California Los Angeles (UCLA) Wireless Health Institute (2014). I earned a B.A. in Applied Mathematics and a B.S. in Electrical Engineering and Computer Science from the Univeristy of California Berkeley (2007).
 
