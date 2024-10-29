@@ -21,8 +21,6 @@ Dr. Mortazavi’s research in personalized digital health has led to significant
 
 Dr. Mortazavi is an Associate Professor in the Department of Computer Science & Engineering at Texas A&M University. He completed a postdoctoral fellowship under the supervision of Prof. Harlan Krumholz at the Center for Outcomes Research and Evaluation (CORE) and Prof. Sahand Negahban in the Department of Statistics. Dr. Mortazavi received his Ph.D. in Computer Science in 2014 under the supervision of Prof. Majid Sarrafzadeh at the Wireless Health Institute at UCLA. He also holds a B.A. in Applied Mathematics and a B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley.
 
-He holds editorial positions with prominent journals such as the IEEE Journal of Biomedical and Health Informatics and the Journal of The American College of Cardiology. Dr. Mortazavi has also taken on leadership roles in major conferences, including Technical Program Committee Chair for BHI’24 and General Chair for the upcoming IEEE EMBS International BSN ’25 and BHI ’25 Conferences. In 2018, he managed student travel awards and created a PhD Forum to advise new and senior PhD students on academic futures. His work advances technological innovations while fostering collaboration across engineering and health sciences, underscoring his commitment to integrating objectives and connecting communities through impactful service.
-
 ### Research Interests
 
 - **Systems and Analytics for Personalized Digital Health**: Design of machine learning methods for clinical outcomes using multimodal modeling and clinician-in-the-loop time-varying, dynamic risk prediction.
