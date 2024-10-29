@@ -13,6 +13,61 @@
 #   workshop: 0
 #   patent: 0
 #
+- title: "Non-invasive Electrolyte Estimation Using Multi-lead ECG data via Semi-supervised Contrastive Learning with an Adaptive Loss"
+  image:
+  description: Abnormal electrolyte concentration in blood can lead to serious conditions such as renal failure, high blood pressure, and a life-threatening type of arrhythmia. Electrocardiogram (ECG) is a non-invasive measure of cardiac electrical activity and can capture subtle changes in electrolyte changes. While classification of ECGs with abnormal electrolyte ranges such as potassium levels has been reported, there is a need to leverage continuous ECGs for regressing electrolyte values. Label scarcity is a major limitation in training machine learning-based models for this purpose. Additionally, measured electrolyte values that are accessible in electronic health records datasets typically exhibit a distribution with fewer data points at the extremes which are crucial for accurate prediction. We tackle the above challenges with a pretrained ECG encoder with large but unlabeled datasets to maximize generalization and an adaptive loss that inversely regularizes backpropagation with label frequency. This results in a reduction of 0.1, 0.16, and 0.41 in MAE of the blood potassium, calcium, and sodium level regression tasks respectively, and an improvement of more than 0.15 improvement in the AUROC for the abnormal electrolyte classification tasks when compared against the state-of-the-art models.
+  authors: Z. Nowroozilarki, S. Huang, R. Khera, B. J. Mortazavi
+  link:
+    url: https://openreview.net/pdf?id=kNpLdJdBZT
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2024)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "A Domain Incremental Continual Learning Benchmark for ICU Time Series Model Transportability"
+  image:
+  description: In recent years, machine learning has made significant progress in clinical outcome prediction, demonstrating increasingly accurate results. However, the substantial resources required for hospitals to train these models, such as data collection, labeling, and computational power, limit the feasibility for smaller hospitals to develop their own models. An alternative approach involves transferring a machine learning model trained by a large hospital to smaller hospitals, allowing them to fine-tune the model on their specific patient data. However, these models are often trained and validated on data from a single hospital, raising concerns about their generalizability to new data. Our research shows that there are notable differences in measurement distributions and frequencies across various regions in the United States. To address this, we propose a benchmark that tests a machine learning model's ability to transfer from a source domain to different regions across the country. This benchmark assesses a model's capacity to learn meaningful information about each new domain while retaining key features from the original domain. Using this benchmark, we frame the transfer of a machine learning model from one region to another as a domain incremental learning problem. While the task of patient outcome prediction remains the same, the input data distribution varies, necessitating a model that can effectively manage these shifts. We evaluate two popular domain incremental learning methods data replay, which stores examples from previous data sources for finetuning on the current source, and Elastic Weight Consolidation (EWC), a model parameter regularization method that maintains features important for both data sources. Finally, we propose a new domain incremental learning method that combines EWC and data replay with the ability to adjust the number of updates utilizing data from previous sources. Our results show that this proposed method outperforms EWC and data replay alone. We also highlight specific shortcomings related to model transferability in the clinical setting, underscoring the need for further research and development in this area.
+  authors: R. King, C. Krueger, E. Veselka, T. Yang, B. J. Mortazavi
+  link:
+    url: https://openreview.net/pdf?id=QWhce2zqne
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2024)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "An Efficient Contrastive Unimodal Pretraining Method for EHR Time Series Data"
+  image:
+  description: Machine learning has revolutionized the modeling of clinical timeseries data. Using machine learning, a Deep Neural Network (DNN) can be automatically trained to learn a complex mapping of its input features for a desired task. This is particularly valuable in Electronic Health Record (EHR) databases, where patients often spend extended periods in intensive care units (ICUs). Machine learning serves as an efficient method for extract meaningful information. However, many state-of-the-art (SOTA) methods for training DNNs demand substantial volumes of labeled data, posing significant challenges for clinics in terms of cost and time. Self-supervised learning offers an alternative by allowing practitioners to extract valuable insights from data without the need for costly labels. Yet, current SOTA methods often necessitate large data batches to achieve optimal performance, increasing computational demands. This presents a challenge when working with long clinical timeseries data. To address this, we propose an efficient method of contrastive pretraining tailored for long clinical timeseries data. Our approach utilizes an estimator for negative pair comparison, enabling effective feature extraction. We assess the efficacy of our pretraining using standard self-supervised tasks such as linear evaluation and semi-supervised learning. Additionally, our model demonstrates the ability to impute missing measurements, providing clinicians with deeper insights into patient conditions. We demonstrate that our pretraining is capable of achieving better performance as both the size of the model and the size of the measurement vocabulary scale. Finally, we externally validate our model, trained on the MIMIC-III dataset, using the eICU dataset. We demonstrate that our model is capable of learning robust clinical information that is transferable to other clinics.
+  authors: R. King, S. Kodali, C. Krueger, T. Yang, B. J. Mortazavi
+  link:
+    url: https://arxiv.org/abs/2410.09199
+    display: IEEE EMBS International Conference on Biomedical and Health Informatics (BHI) (2024)
+  highlight: 0
+  news2:
+  journal: 0
+  conference: 1
+  workshop: 0
+  patent: 0
+
+- title: "Pulse2AI: An Adaptive Framework to Standardize and Process Pulsatile Wearable Sensor Data for Clinical Applications"
+  image:
+  description: To establish Pulse2AI as a reproducible data preprocessing framework for pulsatile signals that generate high-quality machine-learning-ready datasets from raw wearable recordings. We proposed an end-to-end data preprocessing framework that adapts multiple pulsatile signal modalities and generates machine-learning-ready datasets agnostic to downstream medical tasks. a dataset preprocessed by Pulse2AI improved systolic blood pressure estimation by 29.58%, from 11.41 to 8.03 mmHg in root-mean-square-error (RMSE) and its diastolic counterpart by 26.01%, from 7.93 to 5.87 mmHg in RMSE. For respiration rate (RR) estimation, Pulse2AI boosted performance by 19.69%, from 1.47 to 1.18 breaths per minute (BrPM) in mean-absolute-error (MAE). Pulse2AI turns pulsatile signals into machine learning (ML) ready datasets for arbitrary remote health monitoring tasks. We tested Pulse2AI on multiple pulsatile modalities and demonstrated its efficacy in two medical applications. This work bridges valuable assets in remote sensing and internet of medical things to ML-ready datasets for medical modeling.
+  authors: S. Huang, R. Jafari, B. J. Mortazavi
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10522883
+    display: IEEE Open Journal of Engineering in Medicine and Biology (OJEMB) (2024)
+  highlight: 0
+  news2:
+  journal: 1
+  conference: 0
+  workshop: 0
+  patent: 0
 
 - title: "ECG Abnormality Detection Using MIMIC-IV-ECG Data Via Supervised Contrastive Learning"
   image: zhale_embc24.jpg
