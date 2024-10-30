@@ -95,3 +95,9 @@
   number_educ: 0
   education1:
   education2:
+- name: Atharva Kulkarni
+  photo: atharva.png
+  info: Master's Student, started Aug 2024
+  email: atkulkarni[at]tamu[dot]edu
+  number_educ: 1
+  education1: B.S. in Computer Science, University of Wisconsin-Madison
