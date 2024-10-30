@@ -31,6 +31,6 @@ Dr. Mortazavi is an Associate Professor in the Department of Computer Science & 
 - **Personalized Sensing and IoMT**: Design of analytics to connect Internet of Medical Things to clinical outcomes research for personal and remote sensing and digital health.
 - **Translational Clinical Outcomes Research**: Implement techniques to enable clinical translation and facilitate clinical interventions, observational comparative effectiveness, and improve outcomes.
 
-#### **Please refer to his [CV](/downloads/BJ-Mortazavi-CV-2024-10-21.pdf) for more information**
+#### **Please refer to my [CV](/downloads/BJ-Mortazavi-CV-2024-10-21.pdf) for more information**
 
 **We are looking for passionate new PhD students, Master, and undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
