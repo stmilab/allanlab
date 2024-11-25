@@ -28,12 +28,12 @@ permalink: /pictures/
 {% endif %}
 {% if pic.occasion == "travel" %}
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/travel/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 {% endif %}
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 4 %}
 
 </div>
 {% endif %}
@@ -71,11 +71,11 @@ permalink: /pictures/
 {% endif %}
 {% if pic.occasion == "graduation" %}
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/graduation/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
 {% endif %}
-{% if even_odd > 2 %}
+{% if even_odd > 4 %}
 </div>
 {% endif %}
 
@@ -112,12 +112,12 @@ permalink: /pictures/
 {% endif %}
 {% if pic.occasion == "causal" %}
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/retreat/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 {% endif %}
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd > 2 %}
+{% if even_odd > 4 %}
 
 </div>
 {% endif %}
