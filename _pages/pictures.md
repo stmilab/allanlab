@@ -13,7 +13,6 @@ permalink: /pictures/
   - [Table of Contents](#table-of-contents)
   - [Conference Travel](#conference-travel)
   - [Graduation](#graduation)
-  - [Lab Retreat](#lab-retreat)
 
 ## Conference Travel
 
@@ -99,7 +98,7 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-## Lab Retreat
+<!-- ## Lab Retreat
 
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
@@ -139,4 +138,4 @@ permalink: /pictures/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->

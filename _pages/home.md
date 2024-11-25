@@ -6,9 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-The STMI lab (pronounced stem-ee) was formed to develop truly integrative end-to-end solutions of smart systems to improve patient care and patient lives. This involves a deep understanding of embedded systems design to develop data collection systems to monitor and empower users, advanced data mining and machine learning modeling to understand the complex, longitudinal data collected, and clinical outcomes research to understand the long-term trajectories and risks patients have for a variety of conditions. This unique blend of multi-disciplinary research provides challenges and opportunities through our partnerships that can provide solutions that drive tangible impact on the quality of life and quality of care.
+The STMI lab (pronounced stem-ee) was formed to develop truly integrative end-to-end solutions of smart systems to improve patient care and patient lives. We focus on the intersection of machine learning, embedded systems, and clinical outcomes research to develop new technologies that can be used to improve patient care and patient lives:
 
-<!-- At its core, these problems require understanding the theoretical properties of the platforms as well as the data. Developing new models to interpret and improve clinical understanding and motivating the collection of new data leads to challenges in systems design, power, communication, and user interface design. In isolation, each field might provide solutions that can be adapted to the others, but by focusing on the end-to-end aspect of our designs, we explore the creation of systems that bridge theoretical gaps in each field as well as the gaps in multi-disciplinary adoption of these technologies. -->
+<!-- This involves a deep understanding of embedded systems design to develop data collection systems to monitor and empower users, advanced data mining and machine learning modeling to understand the complex, longitudinal data collected, and clinical outcomes research to understand the long-term trajectories and risks patients have for a variety of conditions. This unique blend of multi-disciplinary research provides challenges and opportunities through our partnerships that can provide solutions that drive tangible impact on the quality of life and quality of care. -->
+
+- **Systems and Analytics for Personalized Digital Health**: Design of machine learning methods for clinical outcomes using multimodal modeling and clinician-in-the-loop time-varying, dynamic risk prediction.
+- **Personalized Sensing and IoMT**: Design of analytics to connect Internet of Medical Things to clinical outcomes research for personal and remote sensing and digital health.
+- **Translational Clinical Outcomes Research**: Implement techniques to enable clinical translation and facilitate clinical interventions, observational comparative effectiveness, and improve outcomes.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

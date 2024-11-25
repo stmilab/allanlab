@@ -33,12 +33,12 @@
 #   image: zepeng_defense.jpg
 # - title: julian_defense
 #   image: julian_defense.jpg
-- title: stmi_retreat
-  image: stmi_retreat_22_02.jpg
-  occasion: causal
-- title: stmi_bhi24_dinner
-  image: bhi24-lab-dinner.jpg
-  occasion: causal
+# - title: stmi_retreat
+#   image: stmi_retreat_22_02.jpg
+#   occasion: causal
+# - title: stmi_bhi24_dinner
+#   image: bhi24-lab-dinner.jpg
+#   occasion: causal
 - title: bhi24_group
   image: bhi24-stmi-group.jpg
   occasion: travel
