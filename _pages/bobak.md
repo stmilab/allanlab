@@ -17,7 +17,7 @@ permalink: /pi/
 
 ### About Me
 
-I am an Associate Professor in the Department of Computer Science & Engineering at Texas A&M University. My research focuses on systems and analytics for personalized health, emphasizing machine learning methods that enhance clinical outcomes through multimodal modeling and dynamic risk prediction. Previously, my work has pioneered the integration of machine learning and embedded systems with clinical outcomes research, including the first models for cuffless blood pressure and automated diet estimation from continuous glucose monitors.
+I am an Associate Professor in the Department of Computer Science & Engineering at Texas A&M University. My research focuses on systems and analytics for personalized health, emphasizing machine learning methods that enhance clinical outcomes through multimodal modeling and dynamic risk prediction. Previously, my work has pioneered the integration of machine learning and embedded systems with clinical outcomes research, including in large collaborative efforts for designing cuffless blood pressure monitors and automated diet estimation from continuous glucose monitors.
 
 Before joining Texas A&M, I have completed my postdoctoral fellowship at Yale under supervision of Prof. Harlan Krumholz at the Center for Outcomes Research and Evaluation (CORE) and Prof. Sahand Negahban in the Department of Statistics. I receieved my Ph.D. in C.S. under the supervision of Prof. Majid Sarrafzadeh at the Wireless Health Institute at UCLA. I received my B.A. in Applied Mathematics and B.S. in Electrical Engineering and Computer Science from the University of California, Berkeley.
 
